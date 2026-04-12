@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100" height="100" alt="Wuabo" src="https://media.discordapp.net/attachments/1492642564308860998/1492642602300997733/WUABO___CIRCLE_LOGO___BLACK___GOLDEN_YELLOW.png" />
+    <img width="100" height="100" alt="Wuabo" src="https://github.com/user-attachments/assets/3a110d46-8fad-4971-96d0-cc2b37d25691" />
 </div>
 
 <div align="center">
