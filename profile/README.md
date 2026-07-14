@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100" height="100" alt="Wuabo" src="https://github.com/user-attachments/assets/3a110d46-8fad-4971-96d0-cc2b37d25691" />
+    <img width="100" height="100" alt="Wuabo Logo" src="https://github.com/user-attachments/assets/dd69eb69-be7e-4df4-9cc5-0bf3da2f6810" />
 </div>
 
 <div align="center">
